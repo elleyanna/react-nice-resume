@@ -7,14 +7,14 @@ class Portfolio extends Component {
         var projectImage = "images/portfolio/" + projects.image;
 
         return (
-          <div key={projects.title} className="columns portfolio-item">
-            <div className="item-wrap">
-              <a
-                href={projects.url}
-                rel="noopener"
-                target="_blank"
-                title={projects.title}
-              >
+          <a
+            href={projects.url}
+            rel="noopener"
+            target="_blank"
+            title={projects.title}
+          >
+            <div key={projects.title} className="columns portfolio-item">
+              <div className="item-wrap">
                 <img alt={projects.title} src={projectImage} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
@@ -22,9 +22,9 @@ class Portfolio extends Component {
                     <p>{projects.category}</p>
                   </div>
                 </div>
-              </a>
+              </div>
             </div>
-          </div>
+          </a>
         );
       });
     }
