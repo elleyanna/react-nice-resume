@@ -2,9 +2,9 @@
   "main": {
     "intro": "Hi, I'm Elle",
     "name": "Elleanna Dwyer",
-    "description": "Philadelphia based React Developer, currently employed at Printfly Co. where I specialize in Front-End programming across a range of internal applications",
+    "description": "Philadelphia based Front-End React Developer",
     "image": "profilepic.png",
-    "bio": "With a bit of an unconventional background in programming, I believe my experience exemplifies my ability to learn quickly and highlights a certain technological savvy. Beginning with my apprenticeship, I have over 6 years of experience in the software development field with a concentration in front-end web development;  the last two years focusing on React.js. I enjoy being around people and working on a team. I believe some of the most important career lessons I have learned have derived from collaborative efforts.",
+    "bio": "With a bit of an unconventional background in programming, I believe my experience exemplifies my ability to learn quickly and highlights a certain technological savvy. Beginning with my apprenticeship, I have over 6 years of experience in the software development field with a concentration in front-end web development;  the last two years focusing on React.js. I enjoy being around people and working on a team. I believe some of the most important career lessons I've learned so far have derived from collaborative efforts.",
     "email": "elleannadwyer@gmail.com",
     "phone": "609•703•9118",
     "github": "https://github.com/elleyanna",
