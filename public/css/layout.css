@@ -284,10 +284,10 @@ ul#nav li.current a { color: #fe6928; }
    display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-between;
 }
 .bars li {
   display: flex;
+  width: 50%;
 }
 .bars li em {
   font: 15px 'opensans-bold', sans-serif;
