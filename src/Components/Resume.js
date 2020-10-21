@@ -33,7 +33,7 @@ class Resume extends Component {
               {work.title}
               <span>&bull;</span> <em className="date">{work.years}</em>
             </p>
-            <p>{work.description}</p>
+            <p>{work.description}</p> 
           </div>
         );
       });

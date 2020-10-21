@@ -61,22 +61,28 @@
     ],
     "skills": [
       {
-        "name": "React"
-      },
-      {
         "name": "Javascript / es6"
       },
       {
+        "name": "React"
+      },
+      {
         "name": "GraphQL"
+      }, 
+      {
+        "name": "Hooks"
       },
       {
         "name": "HTML / HTML5"
       },
       {
-        "name": "CSS / Flexbox"
+        "name": "CSS"
       },
       {
         "name": "Git"
+      },
+      {
+        "name": "Flexbox"
       },
       {
         "name": "Material Design"
