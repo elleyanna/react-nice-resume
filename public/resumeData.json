@@ -61,44 +61,34 @@
     ],
     "skills": [
       {
-        "name": "React",
-        "level": "80%"
+        "name": "React"
       },
       {
-        "name": "Javascript / es6",
-        "level": "80%"
+        "name": "Javascript / es6"
       },
       {
-        "name": "GraphQL",
-        "level": "70%"
+        "name": "GraphQL"
       },
       {
-        "name": "HTML / HTML5",
-        "level": "85%"
+        "name": "HTML / HTML5"
       },
       {
-        "name": "CSS",
-        "level": "85%"
+        "name": "CSS"
       },
       {
-        "name": "Flexbox",
-        "level": "90%"
+        "name": "Flexbox"
       },
       {
-        "name": "Material Design",
-        "level": "90%"
+        "name": "Material Design"
       },
       {
-        "name": "Git",
-        "level": "85%"
+        "name": "Git"
       },
       {
-        "name": "Quality Assurance",
-        "level": "90%"
+        "name": "Quality Assurance"
       },
       {
-        "name": "Communication / Working with a team",
-        "level": "95%"
+        "name": "Communication / Working with a team"
       }
     ]
   },
