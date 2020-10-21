@@ -11,7 +11,7 @@ class Contact extends Component {
       var zip = this.props.data.address.zip;
       var phone= this.props.data.phone;
       var email = this.props.data.email;
-      var message = this.props.data.contactmessage;
+
     }
 
     return (
@@ -22,12 +22,6 @@ class Contact extends Component {
             <div className="two columns header-col">
 
                <h1><span>Get In Touch.</span></h1>
-
-            </div>
-
-            <div className="ten columns">
-
-                  <p className="lead">{message}</p>
 
             </div>
 
@@ -52,11 +46,6 @@ class Contact extends Component {
                   <div>
 						   <label htmlFor="contactSubject">Subject</label>
 						   <input type="text" defaultValue="" size="35" id="contactSubject" name="contactSubject" onChange={this.handleChange}/>
-                  </div>
-
-                  <div>
-                     <label htmlFor="contactMessage">Message <span className="required">*</span></label>
-                     <textarea cols="50" rows="15" id="contactMessage" name="contactMessage"></textarea>
                   </div>
 
                   <div>
