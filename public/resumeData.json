@@ -7,7 +7,7 @@
     "bio": "With a bit of an unconventional background in programming, I believe my experience exemplifies my ability to learn quickly and highlights a certain technological savvy. Beginning with my apprenticeship, I have over 6 years of experience in the software development field with a concentration in front-end web development;  the last two years focusing on React.js. I enjoy being around people and working on a team. I believe some of the most important career lessons I've learned so far have derived from collaborative efforts.",
     "email": "elleannadwyer@gmail.com",
     "phone": "609•703•9118",
-    "github": "https://github.com/elleyanna",
+    "github": "https://github.com/elleyanna/weird-reddit",
     "address": {
       "street": "224 Greenwich Street",
       "city": "Philadelphia",
@@ -23,7 +23,7 @@
       },
       {
         "name": "github",
-        "url": "https://github.com/elleyanna",
+        "url": "https://github.com/elleyanna/weird-reddit",
         "className": "fa fa-github"
       }
     ]
