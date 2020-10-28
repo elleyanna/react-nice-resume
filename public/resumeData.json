@@ -2,9 +2,9 @@
   "main": {
     "intro": "Hi, I'm Elle",
     "name": "Elleanna Dwyer",
-    "description": "Philadelphia based Front-End React Developer",
+    "description": "Philadelphia based React JS Developer",
     "image": "profilepic.png",
-    "bio": "With a bit of an unconventional background in programming, I believe my experience exemplifies my ability to learn quickly and highlights a certain technological savvy. Beginning with my apprenticeship, I have over 6 years of experience in the software development field with a concentration in front-end web development;  the last two years focusing on React.js. I enjoy being around people and working on a team. I believe some of the most important career lessons I've learned so far have derived from collaborative efforts.",
+    "bio": "With a bit of an unconventional background in programming, I believe my experience exemplifies my ability to learn quickly and highlights a certain technological savvy. Beginning with my apprenticeship, I have over 6 years of experience in the software development field with a concentration in front-end web development; the last two years focusing on React.js. I enjoy being around people and working on a team. I believe some of the most important career lessons I've learned so far have derived from collaborative efforts.",
     "email": "elleannadwyer@gmail.com",
     "phone": "609•703•9118",
     "github": "https://github.com/elleyanna/weird-reddit",
@@ -55,7 +55,7 @@
         "company": "Printfly Co.",
         "title": "React Developer",
         "years": "May 2018 - Current",
-        "description": "Began my journey as a React Developer by working with an amazing team to design and develop websites from the ground up for a variety of internal facing applications. Specifically, web apps being used by our Sales Team and our Production Team to help improve business practices and the efficiency of every day operations."
+        "description": "Worked with a talented team to design and develop websites from the ground up as well as updating and maintaining existing technologies for a variety of internal facing applications. Specifically, web applications being used by our Sales Team and our Production Team to help improve business practices and the efficiency of every day operations. Collaborated with designers, project managers, and QA engineers in an agile environment to ensure high quality software and product. Used libraries and frameworks such as React, Recompose, GraphQL, and Apollo."
       }
     ],
     "skills": [
