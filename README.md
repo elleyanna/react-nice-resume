@@ -1,5 +1,9 @@
 # React Nice Resume
 
+## Prerequisites
+
+### Node.js
+
 ## Run Project
 
 ### 1. Clone the project
